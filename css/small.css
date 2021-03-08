@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Secular+One|PT+Sans');
+
+img {
+    width: auto;
+    height: 150px;
+}
+
+h1 {
+    margin: 0.15rem;
+    font-family: 'Secular One'; 
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-family: 'Secular One';
+    font-size: 1rem;
+}
+
+nav {
+    font-family: 'PT Sans';
+}
+
+header, footer {
+    background-color: #228B22;
+    color: white;
+    display: block;
+    text-align: center;
+    font-family: 'PT Sans';
+}
+
+header {
+    margin-top: 10px;
+}
+
+header, body, footer {
+    margin: 0 auto;
+    padding: 0.75rem;
+    max-width: 45rem;
+}
+
+#currentdate {
+    color: #39FF14;
+}
